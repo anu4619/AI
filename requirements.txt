@@ -1,0 +1,23 @@
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+
+# Google Gemini API
+google-genai
+
+# Environment variables
+python-dotenv
+
+
+# API development
+fastapi
+uvicorn
+
+# HTTP requests
+requests
+
+# Jupyter Notebook (optional)
+ipykernel
